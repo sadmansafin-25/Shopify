@@ -167,22 +167,12 @@
         "padding_top": 40,
         "padding_bottom": 52
       }
-    },
-    "custom_liquid_U6rKNz": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "{% comment %}\n<script>\n  document.addEventListener('DOMContentLoaded', function() {\n    var popup = document.querySelector('.popup');\n    var closeBtn = document.querySelector('.popup__close');\n\n    closeBtn.addEventListener('click', function() {\n      popup.style.display = 'none';\n    });\n  });\n</script>\n\n<style>\n  .popup {\n    position: fixed;\n    top: 50%;\n    left: 50%;\n    transform: translate(-50%, -50%);\n    background-color: white;\n    padding: 20px;\n    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);\n    z-index: 999;\n  }\n\n  .popup__close {\n    position: absolute;\n    top: 0;\n    right: 0;\n    padding: 5px;\n    cursor: pointer;\n  }\n</style>\n{% endcomment %}\n\n<div class=\"popup\">\n  <span class=\"popup__close\">X</span>\n  <h2>Popup Title</h2>\n  <p>This is a custom popup message.</p>\n</div>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
     }
   },
   "order": [
     "slideshow_8tRkLd",
     "image_banner",
     "featured_collection",
-    "custom_liquid_7rGtEQ",
-    "custom_liquid_U6rKNz"
+    "custom_liquid_7rGtEQ"
   ]
 }
