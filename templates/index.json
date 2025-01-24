@@ -1,1 +1,188 @@
-{"sections":{"slideshow_8tRkLd":{"type":"slideshow","blocks":{"slide_ywyBRJ":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/pexels-ron-lach-9594151.jpg","heading":"Image slide","heading_size":"h1","subheading":"Tell your brand's story through images","button_label":"Button label","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":30,"color_scheme":"","text_alignment_mobile":"center"}},"slide_mWUiEf":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/pexels-viktoria-alipatova-1083711-4169370.jpg","heading":"Image slide","heading_size":"h1","subheading":"Tell your brand's story through images","button_label":"Button label","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"","text_alignment_mobile":"center"}},"slide_TfnbXa":{"type":"slide","settings":{"image":"shopify:\/\/shop_images\/pexels-tanphuc-2977345.jpg","heading":"Image slide","heading_size":"h1","subheading":"Tell your brand's story through images","button_label":"Button label","link":"","button_style_secondary":false,"box_align":"middle-center","show_text_box":true,"text_alignment":"center","image_overlay_opacity":0,"color_scheme":"scheme-1","text_alignment_mobile":"center"}}},"block_order":["slide_ywyBRJ","slide_mWUiEf","slide_TfnbXa"],"custom_css":["@media only screen and (max-width: 600px) {.banner__heading, .banner__text, .banner__buttons {color: white; } .banner__buttons {background-color: lightgrey; }}"],"settings":{"layout":"full_bleed","slide_height":"small","slider_visual":"counter","auto_rotate":true,"change_slides_speed":5,"image_behavior":"none","show_text_below":false,"accessibility_info":"Slideshow about our brand"}},"image_banner":{"type":"image-banner","blocks":{"heading":{"type":"heading","settings":{"heading":"Browse our latest products","heading_size":"h0"}},"button":{"type":"buttons","settings":{"button_label_1":"Shop all","button_link_1":"shopify:\/\/collections\/all","button_style_secondary_1":true,"button_label_2":"","button_link_2":"","button_style_secondary_2":false}}},"block_order":["heading","button"],"settings":{"image_overlay_opacity":40,"image_height":"large","desktop_content_position":"bottom-center","show_text_box":false,"desktop_content_alignment":"center","color_scheme":"scheme-3","image_behavior":"none","mobile_content_alignment":"center","stack_images_on_mobile":false,"show_text_below":false}},"featured_collection":{"type":"featured-collection","custom_css":[],"settings":{"title":"Featured products","heading_size":"h2","description":"","show_description":false,"description_style":"body","collection":"all","products_to_show":6,"columns_desktop":4,"full_width":false,"show_view_all":true,"view_all_style":"solid","enable_desktop_slider":true,"color_scheme":"scheme-2","image_ratio":"square","image_shape":"default","show_secondary_image":true,"show_vendor":false,"show_rating":false,"quick_add":"none","columns_mobile":"2","swipe_on_mobile":false,"padding_top":44,"padding_bottom":36}},"custom_liquid_7rGtEQ":{"type":"custom-liquid","custom_css":[".column {display: inline-block; vertical-align: middle; transform: perspective(1px) translateZ(0); box-shadow: 0 0 2px transparent; margin: 10px; transition-duration: 0.5s;}",".column:hover {transform: scale(1.05); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);}",".column {background-color: lightgoldenrodyellow; border-radius:25px;}"],"settings":{"custom_liquid":"<div class=\"custom-columns\">\n  <div class=\"column\">\n    <h2>Fast Delivery<\/h2>\n    <img src=https:\/\/cdn.shopify.com\/s\/files\/1\/0661\/1373\/2764\/files\/reshot-icon-fast-shipping-8K394TEMDS.svg?v=1737219774 alt=\"Image 1\" style=\"width:50%;\">\n    <p>Get Your Products within 24 hours<\/p>\n  <\/div>\n  <div class=\"column\">\n    <h2>Column 2<\/h2>\n    <img src=\"{{ 'image2.jpg' | asset_url }}\" alt=\"Image 2\" style=\"width:100%;\">\n    <p>This is the content for the second column. Add a description or other elements here.<\/p>\n  <\/div>\n  <div class=\"column\">\n    <h2>Column 3<\/h2>\n    <img src=\"{{ 'image3.jpg' | asset_url }}\" alt=\"Image 3\" style=\"width:100%;\">\n    <p>This is the content for the third column. Add a description or other elements here.<\/p>\n  <\/div>\n<\/div>\n\n<style>\n.custom-columns {\n  display: flex;\n  gap: 20px;\n}\n.column {\n  flex: 1;\n  padding: 10px;\n  border: 1px solid #ddd;\n  background-color: #f9f9f9;\n  text-align: center;\n}\n.column img {\n  max-width: 100%;\n  height: auto;\n}\n<\/style>","color_scheme":"scheme-2","padding_top":40,"padding_bottom":52}}},"order":["slideshow_8tRkLd","image_banner","featured_collection","custom_liquid_7rGtEQ"]}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow_8tRkLd": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_ywyBRJ": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/pexels-ron-lach-9594151.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 30,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_mWUiEf": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/pexels-viktoria-alipatova-1083711-4169370.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
+          }
+        },
+        "slide_TfnbXa": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/pexels-tanphuc-2977345.jpg",
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "scheme-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_ywyBRJ",
+        "slide_mWUiEf",
+        "slide_TfnbXa"
+      ],
+      "custom_css": [
+        "@media only screen and (max-width: 600px) {.banner__heading, .banner__text, .banner__buttons {color: white; } .banner__buttons {background-color: lightgrey; }}"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "small",
+        "slider_visual": "counter",
+        "auto_rotate": true,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": false,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Browse our latest products",
+            "heading_size": "h0"
+          }
+        },
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Shop all",
+            "button_link_1": "shopify://collections/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "button"
+      ],
+      "settings": {
+        "image_overlay_opacity": 40,
+        "image_height": "large",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
+    "featured_collection": {
+      "type": "featured-collection",
+      "custom_css": [],
+      "settings": {
+        "title": "Featured products",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "all",
+        "products_to_show": 6,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "scheme-2",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "none",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 44,
+        "padding_bottom": 36
+      }
+    },
+    "custom_liquid_7rGtEQ": {
+      "type": "custom-liquid",
+      "custom_css": [
+        ".column {display: inline-block; vertical-align: middle; transform: perspective(1px) translateZ(0); box-shadow: 0 0 2px transparent; margin: 10px; transition-duration: 0.5s;}",
+        ".column:hover {transform: scale(1.05); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);}",
+        ".column {background-color: lightgoldenrodyellow; border-radius: 25px;}"
+      ],
+      "settings": {
+        "custom_liquid": "<div class=\"custom-columns\">\n  <div class=\"column\">\n    <h2>Fast Delivery</h2>\n    <img src=https://cdn.shopify.com/s/files/1/0661/1373/2764/files/reshot-icon-fast-shipping-8K394TEMDS.svg?v=1737219774 alt=\"Image 1\" style=\"width:50%;\">\n    <p>Get Your Products within 24 hours</p>\n  </div>\n  <div class=\"column\">\n    <h2>Column 2</h2>\n    <img src=\"{{ 'image2.jpg' | asset_url }}\" alt=\"Image 2\" style=\"width:100%;\">\n    <p>This is the content for the second column. Add a description or other elements here.</p>\n  </div>\n  <div class=\"column\">\n    <h2>Column 3</h2>\n    <img src=\"{{ 'image3.jpg' | asset_url }}\" alt=\"Image 3\" style=\"width:100%;\">\n    <p>This is the content for the third column. Add a description or other elements here.</p>\n  </div>\n</div>\n\n<style>\n.custom-columns {\n  display: flex;\n  gap: 20px;\n}\n.column {\n  flex: 1;\n  padding: 10px;\n  border: 1px solid #ddd;\n  background-color: #f9f9f9;\n  text-align: center;\n}\n.column img {\n  max-width: 100%;\n  height: auto;\n}\n</style>",
+        "color_scheme": "scheme-2",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "custom_liquid_U6rKNz": {
+      "type": "custom-liquid",
+      "settings": {
+        "custom_liquid": "{% comment %}\n<script>\n  document.addEventListener('DOMContentLoaded', function() {\n    var popup = document.querySelector('.popup');\n    var closeBtn = document.querySelector('.popup__close');\n\n    closeBtn.addEventListener('click', function() {\n      popup.style.display = 'none';\n    });\n  });\n</script>\n\n<style>\n  .popup {\n    position: fixed;\n    top: 50%;\n    left: 50%;\n    transform: translate(-50%, -50%);\n    background-color: white;\n    padding: 20px;\n    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);\n    z-index: 999;\n  }\n\n  .popup__close {\n    position: absolute;\n    top: 0;\n    right: 0;\n    padding: 5px;\n    cursor: pointer;\n  }\n</style>\n{% endcomment %}\n\n<div class=\"popup\">\n  <span class=\"popup__close\">X</span>\n  <h2>Popup Title</h2>\n  <p>This is a custom popup message.</p>\n</div>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "slideshow_8tRkLd",
+    "image_banner",
+    "featured_collection",
+    "custom_liquid_7rGtEQ",
+    "custom_liquid_U6rKNz"
+  ]
+}
